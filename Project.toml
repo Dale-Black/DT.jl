@@ -3,6 +3,9 @@ uuid = "e3fd1c0e-5cec-4075-9ddb-359953c209f6"
 authors = ["Dale-Black <djblack@uci.edu> and contributors"]
 version = "0.1.0"
 
+[deps]
+PythonCall = "6099a3de-0909-46bc-b1f4-468b9a2dfc0d"
+
 [compat]
 julia = "1"
 
