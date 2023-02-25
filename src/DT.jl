@@ -1,4 +1,6 @@
 module DT
+using CondaPkg
+CondaPkg.add("scipy")
 
 using PythonCall
 
